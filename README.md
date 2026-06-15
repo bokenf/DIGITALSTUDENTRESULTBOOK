@@ -28,3 +28,12 @@
 * **Concepts**: Implemented relational database management using `studentdb`.
 * **Practical Activity**: Developed full CRUD (Create, Read, Update, Delete) operations to manage product and user records.
 * **Key Learnings**: Successfully integrated the frontend with the MySQL backend to enable persistent data storage and dynamic retrieval.
+
+### Week 6: CAT 1 – Prototype Integration
+* **Objective**: Integration of frontend interfaces with the `studentdb` backend.
+* **Core Functionalities**: 
+    * **Product Catalog**: Dynamic retrieval of products from the MySQL database.
+    * **Form Validation**: Implementation of client-side (JavaScript) and server-side (PHP) validation.
+    * **CRUD Operations**: Full Create, Read, Update, and Delete functionality for product records.
+    * **System Prototype**: A unified e-commerce interface where users can view and interact with database-driven content.
+* **Key Learnings**: Successfully completed the CAT 1 evaluation by demonstrating a functional prototype and ensuring all core system components (Server, Database, Frontend) are integrated.
