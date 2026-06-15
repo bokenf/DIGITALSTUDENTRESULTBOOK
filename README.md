@@ -18,3 +18,13 @@
 * **Database Schema**: Designed and implemented relational tables for `products` and `users` using DDL (Data Definition Language).
 * **Data Population**: Executed DML (Data Manipulation Language) queries to seed the database with initial sample inventory.
 * **Key Learnings**: Gained hands-on experience in managing database services and structured data storage for web-based applications.
+
+### Week 4: Server-Side Components and Backend Development Foundations
+* **Concepts**: Learned the request-response cycle and backend processing logic using PHP.
+* **Practical Activity**: Developed form handling systems (POST/GET) and implemented a basic user authentication flow.
+* **Key Learnings**: Gained understanding of how HTML forms interact with server-side scripts to process user input.
+
+### Week 5: Database Components and CRUD Operations
+* **Concepts**: Implemented relational database management using `studentdb`.
+* **Practical Activity**: Developed full CRUD (Create, Read, Update, Delete) operations to manage product and user records.
+* **Key Learnings**: Successfully integrated the frontend with the MySQL backend to enable persistent data storage and dynamic retrieval.
