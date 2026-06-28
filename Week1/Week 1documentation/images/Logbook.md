@@ -1,5 +1,4 @@
 ## Week 1: Environment Setup
-**Date:** 2026-06-15
 
 ### Activities
 *   **Environment Setup**: Configured XAMPP environment for local development.
